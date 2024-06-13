@@ -1,0 +1,20 @@
+backend_assignment/
+│
+├── app/
+│   ├── __init__.py
+│   ├── models.py
+│   ├── routes.py
+│   ├── user_routes.py
+│   ├── discussion_routes.py
+│   ├── auth.py
+│   └── utils.py
+│
+├── tests/
+│   ├── test_users.py
+│   ├── test_discussions.py
+│   └── __init__.py
+│
+├── .gitignore
+├── README.md
+├── requirements.txt
+└── run.py
